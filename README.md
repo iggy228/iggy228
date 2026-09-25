@@ -1,12 +1,10 @@
-### Hi, I'm Ignác Borový or Iggy 👋
+### Hi, I'm Ignác Borový or Iggy (Igy) 👋
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iggy630)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignac-borovy-555911202/)
+Technologies I use: Flutter, Vue 3, Capacitor.js, Laravel
 
-Languages: Kotlin, Dart, Typescript, HTML, CSS, SASS, JS
+I'm frontend-focused software engineer with over 4 years of experience building modern web and cross-platform mobile applications. I specialize in Vue and Nuxt for the web, and Flutter and Capacitor for delivering native-quality mobile experiences.
 
-Technologies: Android, Flutter, Vue 3
-
+For more info about me refer to my web: https://ignac-borovy.eu/
 <!--
 **iggy228/iggy228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
